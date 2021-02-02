@@ -17,9 +17,9 @@
 .alternate ->> single selector{
     color: green;
 }
-<div class ="body">
+´´<div class ="body">
   <h1 class="alternate">Awesome</h1>
-</div>
+</div>´´
 
 
 22.06 - handler om at ">" gør det mere specifikt og # må man aldrig bruge til styling. Man kan ikke overskygge et ID, derfor kan man ikke gå tilbage senere og ændre på det. 
